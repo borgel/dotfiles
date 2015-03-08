@@ -1,0 +1,15 @@
+Subject: Arazu's Backup Log: Wed Jul 16 23:03:31 PDT 2014
+Starting /media/Backups/RemoteArchive/
+INFO: Compiling list of local files...
+INFO: Running stat() and reading/calculating MD5 values on 3916 files, this may take some time...
+INFO: [1000/3916]
+INFO: [2000/3916]
+INFO: [3000/3916]
+INFO: Retrieving list of remote files for s3://btg-backup-archive/ ...
+INFO: Found 3916 local files, 3919 remote files
+INFO: Verifying attributes...
+INFO: Summary: 0 local files to upload, 0 files to remote copy, 3 remote files to delete
+INFO: Done. Uploaded 0 bytes in 0.0 seconds, 0.00 B/s.  Copied 0 files saving 0 bytes transfer.
+Done
+
+Done with Backup at Wed Jul 16 23:05:20 PDT 2014
