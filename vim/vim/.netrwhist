@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/borgel/working/staq/curstest'
-let g:netrw_dirhist_2='/Users/borgel/working/staq'
-let g:netrw_dirhist_3='/Users/borgel/working/staq/curstest'
-let g:netrw_dirhist_4='/Users/borgel/working/staq'
-let g:netrw_dirhist_5='/Users/borgel/working/staq/markdowntest'
-let g:netrw_dirhist_6='/Users/borgel/working/staq/markdowntest/markdown-to-terminal'
-let g:netrw_dirhist_7='/Users/borgel/working/staq'
